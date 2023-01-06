@@ -7,103 +7,128 @@ If you see any book that could fit in the list and is missing - let me know! I'm
 
 ## Engineering Management
 
-- The Manager's Path, by Camille Fournier
-- High Output Management, by Andrew S. Grove
-- Resilient Management, by Lara Hogan
+| Title | Writer | rating | links |
+| :---- | :----- | :----: | :---- |
+| The Manager's Path | Camille Fournier | ⭐⭐⭐⭐ | [Amazon.de](https://www.amazon.de/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) |
+| High Output Management | Andrew S. Grove | ⭐⭐⭐ |[Amazon.de](https://amzn.eu/d/hocoDzc) |
+| Resilient Management | Lara Hogan | ⭐⭐⭐⭐ | [Amazon.com](https://a.co/d/8iwVj8K) |
 
 ## Organization design
 
-- Team Topologies, by Matthew Skelton and Manuel Pais
-- Accelerate, by Nicole Forsgren, Jez Humble and Gene Kim
+| Title | Writer | links |
+| :---- | :----- | :---- |
+| Team Topologies | Matthew Skelton and Manuel Pais |  |
+| Accelerate | Nicole Forsgren, Jez Humble and Gene Kim |  |
 
 ## Software engineering and development
 
-- Clean Code, by Martin Fowler
-- Thinking in Systems, by Tom Long
-- Thinking in Systems: A Primer, by Donella Meadows
+| Title | Writer | links |
+| :---- | :----- | :---- |
+| Clean Code | Martin Fowler |  |
+| Thinking in Systems | Tom Long |  |
+| Thinking in Systems: A Primer | Donella Meadows |  |
 
 ## Technical interview preparation
 
-- Cracking the Coding Interview, by Gayle Laakman McDowell
+| Title | Writer | links |
+| :---- | :----- | :---- |
+| Cracking the Coding Interview | Gayle Laakman McDowell |  |
 
 ## Product, strategy and business
 
-- Empowered, by Marty Cagan
-- Inspired, by Marty Cagan
-- Beyond Entrepreneurship 2.0, by Jim Collins and Bill Lazier
-- Good to Great, by Jim Collins
-- Measure What Matters, by John Doerr
-- No Rules Rules, by Reed Hasting
-- Escaping the Build Trap, by Melissa Perri
-- Crossing the Chasm, by Geoffrey A. Moore
-- Trillion Dollar Coach, by Eric Schmidt
-- Loonshots, by Safi Bahcall
-- Blue Ocean Strategy, by W. Chan Kim
-- The Lean Product Playbook, by Dan Olsen
-- The Hard Thing about Hard Things, by Ben Horowitz
-- Principles: Life and Work, by Ray Dalio
-- Continous Discovery Habits, by Teresa Torres
-- Zero to One: Notes on Startups, or How to Build the Future, by Peter Thiel
+| Title | Writer | links |
+| :---- | :----- | :---- |
+| Empowered | Marty Cagan |  |
+| Inspired | Marty Cagan |  |
+| Beyond Entrepreneurship 2.0 | Jim Collins and Bill Lazier |  |
+| Good to Great | Jim Collins |  |
+| Measure What Matters | John Doerr |  |
+| No Rules Rules | Reed Hasting |  |
+| Escaping the Build Trap | Melissa Perri |  |
+| Crossing the Chasm | Geoffrey A. Moore |  |
+| Trillion Dollar Coach | Eric Schmidt |  |
+| Loonshots | Safi Bahcall |  |
+| Blue Ocean Strategy | W. Chan Kim |  |
+| The Lean Product Playbook | Dan Olsen |  |
+| The Hard Thing about Hard Things | Ben Horowitz |  |
+| Principles: Life and Work | Ray Dalio |  |
+| Continous Discovery Habits | Teresa Torres |  |
+| Zero to One: Notes on Startups, or How to Build the Future | Peter Thiel |  |
 
 ## Leadership
 
-- The Five Dysfunctions of a Team, by Patrick Lencioni
-- Turn the Ship Around, by L. David Marquet
-- Radical Candor, by Kim Scott
-- Never split the difference, by Chris Boss
-- Extreme Ownership, by Jocko Willink
-- Spark: How to Lead Yourself and Others to Greater Success, by Angie Morgan
-- Clarity First: How Smart Leaders and Organizations Achieve Outstanding Performance, by Karen Martin
-- The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever, by Michael Bungay Stanier
-- The Art of Leadership: Small Things, Done Well, by Michael Lopp
+| Title | Writer | links |
+| :---- | :----- | :---- |
+| The Five Dysfunctions of a Team | Patrick Lencioni |  |
+| Turn the Ship Around | L. David Marquet |  |
+| Radical Candor | Kim Scott |  |
+| Never split the difference | Chris Boss |  |
+| Extreme Ownership | Jocko Willink |  |
+| Spark: How to Lead Yourself and Others to Greater Success | Angie Morgan |  |
+| Clarity First: How Smart Leaders and Organizations Achieve Outstanding Performance | Karen Martin |  |
+| The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever | Michael Bungay Stanier |  |
+| The Art of Leadership: Small Things, Done Well | Michael Lopp |  |
 
 ## Workplace and culture
 
-- The Culture Map, by Erin Meyer
-- It doesn't have to be crazy at work, by Jason Fried & David Heinemeier Hansson
-- Rework, by Jason Fried & David Heinemeier Hansson
-- Flex: Reinventing work for a smarter, happier life, by Annie Auerbach
-- The Best Place to Work: The Art and Science of Creating an Extraordinary Workplace, by Ron Friedman
+| Title | Writer | links |
+| :---- | :----- | :---- |
+| The Culture Map | Erin Meyer |  |
+| It doesn't have to be crazy at work | Jason Fried & David Heinemeier Hansson |  |
+| Rework | Jason Fried & David Heinemeier Hansson |  |
+| Flex: Reinventing work for a smarter, happier life | Annie Auerbach |  |
+| The Best Place to Work: The Art and Science of Creating an Extraordinary Workplace | Ron Friedman |  |
 
 ## Biographies/company stories
 
-- Shoe Dog, by Phil Knight
-- Build, by Tom Fadell 
-- Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone, by Satya Nadella
+| Title | Writer | links |
+| :---- | :----- | :---- |
+| Shoe Dog | Phil Knight |  |
+| Build | Tom Fadell |  |
+| Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone | Satya Nadella |  |
 
 ## Psychology (cognitive, evolutionary, phylosophy...)
 
-- Think Again: The Power of Knowing What You Don't Know Hardcover, by Adam Grant
-- Deep Work: Rules for Focused Success in a Distracted World, by Cal Newport
-- Thinking Fast and Slow, by Daniel Kahneman
-- Noise: A Flaw in Human Judgement, by Daniel Kahneman [in progress]
-- Grit: The Power of Passion and Perseverance, by Angela Duckworth
-- Algorithms to Live By: The Computer Science of Human Decisions, by Brian Christian
-- Essentialism: The Disciplined Pursuit of Less, by Greg McKeown
-- Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment, by Robert Wright
-- Meditations, by Marcus Aurelius
+| Title | Writer | links |
+| :---- | :----- | :---- |
+| Think Again: The Power of Knowing What You Don't Know Hardcover | Adam Grant |  |
+| Deep Work: Rules for Focused Success in a Distracted World | Cal Newport |  |
+| Thinking Fast and Slow | Daniel Kahneman |  |
+| Noise: A Flaw in Human Judgement | Daniel Kahneman | *in progress* |
+| Grit: The Power of Passion and Perseverance | Angela Duckworth |  |
+| Algorithms to Live By: The Computer Science of Human Decisions | Brian Christian |  |
+| Essentialism: The Disciplined Pursuit of Less | Greg McKeown |  |
+| Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment | Robert Wright |  |
+| Meditations | Marcus Aurelius |  |
 
 ## Society, world and future
 
-- Everything is Fucked: A Book about hope, by Mark Manson
-- Rule Makers, Rule Breakers: how Tight and Loose Cultures Wire Our World, by Michele Gelfand
-- Platform Revolution: Platform Revolution: How Networked Markets Are Transforming the Economy―and How to Make Them Work for You, by Geoffrey G. Parker
-- The Industries of the Future, by Alec Ross
-- Homo Deus: A Brief History of Tomorrow, by Yuval Noah Harari
-- Sapiens: A Brief History of Humankind, by Yuval Noah Harari
-- What We Owe the Future Hardcover, by William MacAskill
+| Title | Writer | links |
+| :---- | :----- | :---- |
+| Everything is Fucked: A Book about hope | Mark Manson |  |
+| Rule Makers, Rule Breakers: how Tight and Loose Cultures Wire Our World | Michele Gelfand |  |
+| Platform Revolution: Platform Revolution: How Networked Markets Are Transforming the Economy―and How to Make Them Work for You | Geoffrey G. Parker |  |
+| The Industries of the Future | Alec Ross |  |
+| Homo Deus: A Brief History of Tomorrow | Yuval Noah Harari |  |
+| Sapiens: A Brief History of Humankind | Yuval Noah Harari |  |
+| What We Owe the Future Hardcover | William MacAskill |  |
 
 ## Sport & performance
 
-- Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance, by Alex Hutchinson
-- Pro Cycling on $10 a Day: From Fat Kid to Euro Pro, by Phil Gaimon
+| Title | Writer | links |
+| :---- | :----- | :---- |
+| Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance | Alex Hutchinson |  |
+| Pro Cycling on $10 a Day: From Fat Kid to Euro Pro | Phil Gaimon |  |
+
 
 ## My reading list:
 
-- Engineering Management for the Rest of Us, by Sarah Drasner
-- Brave New Work, by Aaron Dignan
-- Drive, by Daniel H. Pink
-- The Rational Optimist, by Matt Ridley
-- An Elegant Puzzle: Systems of Engineering Management, by Will Larson
-- Staff Engineer: Leadership Beyond the Management Track, by Will Larson
-- The First 90 Days: Critical Success Strategies for New Leaders at All Levelsby Michael D. Watkins 
+| Title | Writer | links |
+| :---- | :----- | :---- |
+| Engineering Management for the Rest of Us | Sarah Drasner |  |
+| Brave New Work | Aaron Dignan |  |
+| Drive | Daniel H. Pink |  |
+| The Rational Optimist | Matt Ridley |  |
+| An Elegant Puzzle: Systems of Engineering Management | Will Larson |  |
+| Staff Engineer: Leadership Beyond the Management Track | Will Larson |  |
+| The First 90 Days: Critical Success Strategies for New Leaders at All | Levelsby Michael D. Watkins |  |
