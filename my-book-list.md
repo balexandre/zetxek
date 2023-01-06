@@ -15,29 +15,29 @@ If you see any book that could fit in the list and is missing - let me know! I'm
 
 ## Organization design
 
-| Title | Writer | links |
-| :---- | :----- | :---- |
+| Title | Writer | rating | links |
+| :---- | :----- | :----: | :---- |
 | Team Topologies | Matthew Skelton and Manuel Pais |  |
 | Accelerate | Nicole Forsgren, Jez Humble and Gene Kim |  |
 
 ## Software engineering and development
 
-| Title | Writer | links |
-| :---- | :----- | :---- |
+| Title | Writer | rating | links |
+| :---- | :----- | :----: | :---- |
 | Clean Code | Martin Fowler |  |
 | Thinking in Systems | Tom Long |  |
 | Thinking in Systems: A Primer | Donella Meadows |  |
 
 ## Technical interview preparation
 
-| Title | Writer | links |
-| :---- | :----- | :---- |
+| Title | Writer | rating | links |
+| :---- | :----- | :----: | :---- |
 | Cracking the Coding Interview | Gayle Laakman McDowell |  |
 
 ## Product, strategy and business
 
-| Title | Writer | links |
-| :---- | :----- | :---- |
+| Title | Writer | rating | links |
+| :---- | :----- | :----: | :---- |
 | Empowered | Marty Cagan |  |
 | Inspired | Marty Cagan |  |
 | Beyond Entrepreneurship 2.0 | Jim Collins and Bill Lazier |  |
@@ -57,8 +57,8 @@ If you see any book that could fit in the list and is missing - let me know! I'm
 
 ## Leadership
 
-| Title | Writer | links |
-| :---- | :----- | :---- |
+| Title | Writer | rating | links |
+| :---- | :----- | :----: | :---- |
 | The Five Dysfunctions of a Team | Patrick Lencioni |  |
 | Turn the Ship Around | L. David Marquet |  |
 | Radical Candor | Kim Scott |  |
@@ -71,8 +71,8 @@ If you see any book that could fit in the list and is missing - let me know! I'm
 
 ## Workplace and culture
 
-| Title | Writer | links |
-| :---- | :----- | :---- |
+| Title | Writer | rating | links |
+| :---- | :----- | :----: | :---- |
 | The Culture Map | Erin Meyer |  |
 | It doesn't have to be crazy at work | Jason Fried & David Heinemeier Hansson |  |
 | Rework | Jason Fried & David Heinemeier Hansson |  |
@@ -81,16 +81,16 @@ If you see any book that could fit in the list and is missing - let me know! I'm
 
 ## Biographies/company stories
 
-| Title | Writer | links |
-| :---- | :----- | :---- |
+| Title | Writer | rating | links |
+| :---- | :----- | :----: | :---- |
 | Shoe Dog | Phil Knight |  |
 | Build | Tom Fadell |  |
 | Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone | Satya Nadella |  |
 
 ## Psychology (cognitive, evolutionary, phylosophy...)
 
-| Title | Writer | links |
-| :---- | :----- | :---- |
+| Title | Writer | rating | links |
+| :---- | :----- | :----: | :---- |
 | Think Again: The Power of Knowing What You Don't Know Hardcover | Adam Grant |  |
 | Deep Work: Rules for Focused Success in a Distracted World | Cal Newport |  |
 | Thinking Fast and Slow | Daniel Kahneman |  |
@@ -103,8 +103,8 @@ If you see any book that could fit in the list and is missing - let me know! I'm
 
 ## Society, world and future
 
-| Title | Writer | links |
-| :---- | :----- | :---- |
+| Title | Writer | rating | links |
+| :---- | :----- | :----: | :---- |
 | Everything is Fucked: A Book about hope | Mark Manson |  |
 | Rule Makers, Rule Breakers: how Tight and Loose Cultures Wire Our World | Michele Gelfand |  |
 | Platform Revolution: Platform Revolution: How Networked Markets Are Transforming the Economy―and How to Make Them Work for You | Geoffrey G. Parker |  |
@@ -115,16 +115,16 @@ If you see any book that could fit in the list and is missing - let me know! I'm
 
 ## Sport & performance
 
-| Title | Writer | links |
-| :---- | :----- | :---- |
+| Title | Writer | rating | links |
+| :---- | :----- | :----: | :---- |
 | Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance | Alex Hutchinson |  |
 | Pro Cycling on $10 a Day: From Fat Kid to Euro Pro | Phil Gaimon |  |
 
 
 ## My reading list:
 
-| Title | Writer | links |
-| :---- | :----- | :---- |
+| Title | Writer | rating | links |
+| :---- | :----- | :----: | :---- |
 | Engineering Management for the Rest of Us | Sarah Drasner |  |
 | Brave New Work | Aaron Dignan |  |
 | Drive | Daniel H. Pink |  |
